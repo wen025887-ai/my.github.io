@@ -53,7 +53,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title: 網誌文章
-    url: /posts/
+    url: /blog/
   - title: 關於我
     url: /about/
   - title:             Example
