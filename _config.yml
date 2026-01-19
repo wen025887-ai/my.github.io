@@ -78,9 +78,9 @@ copyright:             © 2024. All rights reserved.
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-# 找到約第 80 行
+# 確保這兩行與你的檔案名稱 "blog" 一致
 paginate: 10
-paginate_path: "/posts/page:num/"
+paginate_path: "/blog/page:num/"
 
 
 # Theme
