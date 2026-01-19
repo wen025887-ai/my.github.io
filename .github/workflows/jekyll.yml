@@ -1,7 +1,7 @@
 name: Deploy Jekyll site to Pages
 on:
   push:
-    branches: ["master"] # 如果你的主分支叫 main，請改為 main
+    branches: ["main"] # 如果你的主分支叫 main，請改為 main
   workflow_dispatch:
 
 permissions:
