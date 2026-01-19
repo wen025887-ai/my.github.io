@@ -52,8 +52,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
+  - title:             Posts
+    url:               /posts/
   - title:             Example
     url:               /example/
   - title:             Documentation
