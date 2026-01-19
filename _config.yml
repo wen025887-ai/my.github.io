@@ -80,7 +80,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
 # 確保這兩行與你的檔案名稱 "blog" 一致
 paginate: 10
-paginate_path: "/blog/page:num/"
+paginate_path: "blog/page:num/"
 
 
 # Theme
