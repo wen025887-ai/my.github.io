@@ -17,10 +17,12 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang: zh-Hant  
+# 改為繁體中文，這樣日期格式和系統文字才會正確
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title: 夜曲TwiNight  
+# 你的 YouTube 頻道名稱
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +31,8 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline: 探索深度學習與開發的足跡 
+# 側邊欄會出現的一句話
 
 # A list of keywords for your blog
 keywords:              []
